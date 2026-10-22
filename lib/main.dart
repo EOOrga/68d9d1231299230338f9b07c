@@ -8,10 +8,10 @@ const developerName = 'CACHIA MICHEL';
 const supportEmail = 'support@cachiamichel.com';
 const screenshotMode = bool.fromEnvironment('SCREENSHOT_MODE');
 
-const _brandNavy = Color(0xFF24365C);
+const _brandNavy = Color(0xFF1FFF6A);
 const _brandBlue = Color(0xFF5C82BC);
-const _safetyGold = Color(0xFFD6A33B);
-const _yardGreen = Color(0xFF2F796F);
+const _safetyGold = Color(0xFF1FFFDA);
+const _yardGreen = Color(0xFF1FB4FF);
 const _canvas = Color(0xFFF6F7FB);
 
 Future<void> main() async {
@@ -602,7 +602,7 @@ class DashboardScreen extends StatelessWidget {
         ),
         const SizedBox(height: 22),
         SectionHeader(
-          title: 'Shift watchlist',
+          title: 'CACHIA MICHEL',
           trailing: '${urgent.length} open',
         ),
         const SizedBox(height: 10),
