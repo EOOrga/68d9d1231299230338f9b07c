@@ -1,0 +1,3 @@
+CACHIA MICHEL helps daily operations teams keep a clear local record of shipment movement, container status, task ownership, and guard patrol outcomes during each shift.
+
+Create records in seconds, update progress, review watchlist items, and keep handover details ready without account registration or cloud sync. The app is designed for business workflows that need quick local notes and status tracking on one Android device.
